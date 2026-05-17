@@ -1,2 +1,2 @@
-// Final fix for mobile layout issue 4
-body { display: flex; flex-direction: column; }
+// Updated fix for mobile layout issue 4
+body { background-color: #f0f0f0; }
