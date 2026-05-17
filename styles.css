@@ -1,2 +1,2 @@
-// Fix for mobile layout issue 4
-body { font-size: 16px; }
+// Fix for mobile layout overflow on iPhone SE
+body { font-size: 16px; overflow-x: hidden; }
