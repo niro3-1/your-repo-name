@@ -1,1 +1,1 @@
-slowapi==latest_version_here
+slowapi==latest_version
