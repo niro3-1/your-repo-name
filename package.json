@@ -1,1 +1,1 @@
-{"dependencies":{"react":"latest"}}
+{"dependencies":{"react":"^18.3.1","email-validator":"^2.0.6"}}
