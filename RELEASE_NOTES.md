@@ -9,3 +9,4 @@
 
 ## v1.0.0
 - Cutting a release tag for version 1.0.0.
+- Status: Frozen.
