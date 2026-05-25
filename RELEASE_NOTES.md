@@ -6,3 +6,6 @@
 ## v0.1.0
 - Initial release.
 - Cutting a release tag for version 0.1.0.
+
+## v1.0.0
+- Cutting a release tag for version 1.0.0.
