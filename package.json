@@ -1,1 +1,1 @@
-{"dependencies":{"react":"^18.3.1","email-validator":"^2.0.6","recharts":"^3.8.1"}}
+{"dependencies":{"react":"^19.2.6","email-validator":"latest","recharts":"latest","zxcvbn":"latest"}}
